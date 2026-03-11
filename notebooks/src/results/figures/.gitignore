@@ -1,0 +1,4 @@
+data/IEMOCAP*
+*.wav
+*.tar
+*.zip
