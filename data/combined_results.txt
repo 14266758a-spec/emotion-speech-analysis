@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+         ang       0.83      0.66      0.73        29
+         hap       0.60      0.23      0.33        13
+         neu       0.50      0.71      0.59        35
+         sad       0.59      0.57      0.58        23
+
+    accuracy                           0.60       100
+   macro avg       0.63      0.54      0.56       100
+weighted avg       0.63      0.60      0.59       100
