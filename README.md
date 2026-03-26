@@ -11,12 +11,6 @@ The dataset includes:
 ## Research Question
 How does combining acoustic information and transcript information influence emotion recognition across emotion categories?
 
-# Speech Emotion Recognition (SER) Project
-
-## Overview
-
-This project investigates how combining textual and acoustic features affects emotion recognition performance.
-
 ## Methods
 
 * Text features: TF-IDF (unigrams + bigrams)
