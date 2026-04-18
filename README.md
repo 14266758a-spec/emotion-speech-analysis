@@ -43,9 +43,9 @@ Three models were implemented:
 * Models trained and evaluated
 * Statistical comparison completed
 
-## Next Steps
+## Results Summary
 
-* Improve feature representation
-* Expand dataset
-* Refine analysis
-
+- Combined model achieved highest accuracy (0.66)
+- Audio features outperformed text features
+- Happiness was the most difficult emotion to classify
+- Statistical analysis confirmed significance of results
